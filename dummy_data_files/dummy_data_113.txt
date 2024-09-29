@@ -1,0 +1,10 @@
+Name: Jody Little, Email: heathangela@example.com, Phone: +1-395-344-9485x09788, SSN: 444-93-6230, Address: 3889 Nicholas Creek Suite 293, Heidifurt, KY 92182
+Name: Michael Parrish, Email: framos@example.org, Phone: 666-630-1782x55534, SSN: 716-79-6763, Address: PSC 3114, Box 5665, APO AA 45140
+Name: John Curtis, Email: fknight@example.net, Phone: (335)776-4072, SSN: 351-30-8793, Address: 18909 Ashley Falls, Lake Roberthaven, SC 26850
+Name: Julie Shaw, Email: barberjessica@example.org, Phone: (477)983-3939x215, SSN: 735-81-7958, Address: 5699 Bridges Extensions, Tiffanytown, UT 81010
+Name: Mr. Stanley Rangel, Email: michael53@example.com, Phone: 8964474070, SSN: 760-87-5308, Address: 75581 Watts Bridge Suite 882, Lake Jessica, RI 39675
+Name: Lisa Crawford, Email: staceymanning@example.net, Phone: (632)530-5412x204, SSN: 045-32-1541, Address: 314 Oliver Harbor, South Sheila, MD 98742
+Name: Theresa Garcia, Email: bwalter@example.net, Phone: 592-367-2892x53371, SSN: 514-26-8775, Address: 50478 Tony Prairie, Hunterfort, CO 95654
+Name: Sarah Wheeler, Email: langherbert@example.net, Phone: 8708213819, SSN: 047-42-0425, Address: 66080 Joshua Summit Apt. 821, Debbieshire, MS 60820
+Name: Jamie Steele, Email: walterlawson@example.net, Phone: 590.311.0719, SSN: 083-30-1938, Address: USS Olsen, FPO AP 83947
+Name: Katrina Taylor, Email: franceslopez@example.org, Phone: +1-487-626-7697, SSN: 206-09-5730, Address: 0784 Lee Shoal, Cynthiashire, WY 60621

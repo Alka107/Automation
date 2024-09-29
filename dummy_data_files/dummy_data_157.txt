@@ -1,0 +1,10 @@
+Name: Angela Knight, Email: deborah19@example.com, Phone: (506)217-7976, SSN: 619-59-0259, Address: 81386 Gonzalez Passage Apt. 950, North Michael, MA 94520
+Name: Anna Kelly, Email: bwest@example.com, Phone: 499.747.3226x2479, SSN: 013-76-7918, Address: 941 James Stravenue Apt. 900, Lake Kristentown, KY 03057
+Name: Bryan White, Email: ncollins@example.com, Phone: 001-696-721-2181x24616, SSN: 501-86-5782, Address: 615 Santana Junction, North Meganmouth, NV 16655
+Name: Mrs. Nancy King, Email: rreese@example.net, Phone: 670-732-9724x58882, SSN: 159-88-5020, Address: 17997 Santiago Springs, Dianaville, RI 02151
+Name: Terry Shaw, Email: isaacwilkins@example.com, Phone: 001-440-340-7620x4740, SSN: 379-74-8989, Address: 17619 Aaron Trail Suite 298, Dominguezville, TN 45184
+Name: Adriana Lopez, Email: bethany86@example.com, Phone: 001-411-741-7588x86893, SSN: 485-29-8223, Address: 046 Charles Mill, East Ryanfurt, SD 55235
+Name: David Brown, Email: pbrown@example.net, Phone: 001-299-773-8437x4200, SSN: 256-68-6585, Address: 187 Vincent Lock, Ronaldport, FM 16050
+Name: Mia Martinez, Email: woodjon@example.net, Phone: (641)942-3943, SSN: 437-69-3642, Address: USNS Jackson, FPO AA 70452
+Name: Patricia Escobar, Email: tammy71@example.org, Phone: 417-674-8571, SSN: 038-89-1501, Address: 0804 Crawford Mountains, Mackborough, MN 68176
+Name: Shari Sharp, Email: hollyneal@example.org, Phone: 7398691135, SSN: 308-65-5256, Address: 11913 Hogan Turnpike Apt. 567, Rodriguezburgh, AR 48226

@@ -1,0 +1,10 @@
+Name: Susan Gates, Email: amber24@example.net, Phone: 516-903-5601x9351, SSN: 147-19-1670, Address: 894 Smith Pike, South Williamborough, LA 41174
+Name: Elizabeth Jones, Email: tle@example.com, Phone: 370-455-2685, SSN: 307-83-7089, Address: 000 West Lane Apt. 487, North Stephanie, CA 89666
+Name: Lawrence James, Email: robert93@example.net, Phone: 652-659-5063, SSN: 660-03-1633, Address: 01804 Anthony Lights, New Regina, MT 35854
+Name: Brenda Taylor, Email: hunterpamela@example.net, Phone: (240)938-1884x071, SSN: 360-82-0192, Address: 875 Barbara Pike, Ballardport, AL 84550
+Name: Melvin Foster, Email: regina32@example.net, Phone: 998.678.4632x871, SSN: 648-71-5915, Address: 884 Christine River, Rickyville, OK 50298
+Name: Dustin Brewer, Email: icooper@example.org, Phone: +1-613-972-5378x29238, SSN: 230-98-8849, Address: 87846 Burch Light, Michaelville, TX 60094
+Name: Dakota Hubbard, Email: martinbrittany@example.org, Phone: (280)974-6110, SSN: 360-67-3186, Address: 1379 King Lake Suite 678, Morganbury, AS 28369
+Name: Richard Mcclure, Email: sandrasmith@example.com, Phone: +1-289-719-1327x42468, SSN: 084-71-9738, Address: 59686 Andersen Plain Suite 203, Kerrymouth, UT 74054
+Name: Shelly Burch, Email: wadejody@example.com, Phone: +1-608-735-8198x299, SSN: 663-99-4716, Address: 81081 Brendan Greens Apt. 270, Stacyland, GA 89619
+Name: Cheryl Martinez, Email: brookslouis@example.com, Phone: 001-765-507-4743x6811, SSN: 862-24-2916, Address: 40255 Dennis Ports Apt. 009, Nelsonton, DE 75754

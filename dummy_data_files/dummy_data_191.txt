@@ -1,0 +1,10 @@
+Name: Steve Stark, Email: laurabooth@example.org, Phone: 651.240.7923x344, SSN: 646-07-6209, Address: 771 Ashley Path, Lake Peter, LA 01073
+Name: Amy Jimenez, Email: moorebrian@example.net, Phone: 383.286.6868x2820, SSN: 119-23-2051, Address: 7560 Brown View Apt. 880, Gordontown, PW 25925
+Name: Michelle Jenkins, Email: joe93@example.com, Phone: (327)325-7982, SSN: 863-34-4390, Address: 24917 Mitchell Common Suite 400, Jessicafort, WI 90336
+Name: Mary Cabrera, Email: brandiwhite@example.org, Phone: (789)262-0769x977, SSN: 025-23-9433, Address: PSC 5422, Box 1430, APO AP 18148
+Name: Erik Ortiz, Email: whitephilip@example.net, Phone: 455-912-8773x78317, SSN: 531-92-8054, Address: 5807 Kramer Rapid Suite 747, South Kevin, KY 99580
+Name: Patricia Parker, Email: waterssara@example.com, Phone: (997)695-1143x842, SSN: 375-71-6087, Address: 732 Saunders Circle Suite 485, East David, WA 24946
+Name: Frederick Griffith, Email: joseph55@example.net, Phone: 684.638.5882x24519, SSN: 793-42-0942, Address: 86035 Thomas Passage, Alexisland, ME 89623
+Name: Stephanie Taylor, Email: srich@example.org, Phone: 792.331.5527, SSN: 381-73-4892, Address: 43858 Jeffrey Islands Apt. 467, Hernandezberg, MD 05458
+Name: Craig Hayes, Email: amy46@example.com, Phone: 988-739-7723x20928, SSN: 567-31-4195, Address: 06469 Catherine Loop, New Justinbury, DC 48830
+Name: Maurice Greene, Email: tonya41@example.net, Phone: 363.285.1560x7977, SSN: 172-37-5214, Address: 84359 Tara View Suite 632, South Ian, MN 51193

@@ -1,0 +1,10 @@
+Name: Bryan Allen, Email: flewis@example.com, Phone: (648)994-0086x804, SSN: 527-81-5407, Address: 3384 Jackson Ville, Griffinbury, NV 69376
+Name: Jesse Ramirez, Email: webbamy@example.net, Phone: 586.308.5678, SSN: 623-42-4821, Address: 12890 Wilkins Vista, Douglaschester, NM 98047
+Name: James Henry, Email: robertsutton@example.com, Phone: 7792156941, SSN: 683-57-5519, Address: 140 Adrienne Canyon, Allenport, NM 93506
+Name: Jeanette Martinez, Email: ohobbs@example.com, Phone: 001-934-214-2957x3568, SSN: 063-07-2454, Address: 7953 Hutchinson Route Suite 026, Hudsonland, PR 45215
+Name: Amanda Butler, Email: vevans@example.net, Phone: 9079720060, SSN: 012-49-2084, Address: 30305 Cole Pike Apt. 358, Leblancburgh, WA 89620
+Name: Jerry Anderson, Email: kayla21@example.org, Phone: (906)940-4070, SSN: 398-09-4705, Address: 991 Jenkins Spur, South Tyler, CO 12175
+Name: Carrie Becker, Email: brittany60@example.com, Phone: 8217069643, SSN: 634-32-1572, Address: 579 Wright Island, Homouth, MD 27424
+Name: Whitney Simmons, Email: david85@example.com, Phone: +1-262-798-4354, SSN: 198-20-1151, Address: 4842 Travis Motorway, Feliciabury, NC 85460
+Name: Mrs. Kimberly Gray, Email: davidhayes@example.org, Phone: 840-794-9279x3587, SSN: 555-97-5613, Address: 858 Charles Neck Suite 364, South Rebecca, MS 78512
+Name: Jeffrey Hart, Email: kristi87@example.net, Phone: (274)937-7731, SSN: 578-37-8239, Address: 174 Martha Locks Apt. 951, Port Ronaldstad, TN 49804

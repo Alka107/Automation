@@ -1,0 +1,10 @@
+Name: Richard Clark, Email: garywilson@example.org, Phone: 293.385.3900, SSN: 189-89-0927, Address: 1507 Smith Canyon Apt. 232, South Lynn, IA 21971
+Name: Rita Cantu, Email: andrewturner@example.org, Phone: 001-938-261-8588x34510, SSN: 074-50-7194, Address: 737 Michael Landing, Huffmanview, MD 73571
+Name: David Padilla, Email: bmurray@example.net, Phone: 001-865-758-2088x329, SSN: 276-87-4242, Address: 21706 Mary Valley Apt. 517, Lake Jon, CO 37515
+Name: Mario Shah, Email: kathleen18@example.org, Phone: (632)962-9974, SSN: 398-92-1895, Address: 1455 Stark Roads, Diazton, ME 71958
+Name: Jim Davis, Email: danielburnett@example.net, Phone: (494)277-9502x849, SSN: 267-26-4033, Address: 88300 Gilbert Falls, Fernandezfort, PR 63790
+Name: Michael Austin, Email: jessicamartinez@example.net, Phone: (520)394-3017, SSN: 839-85-2187, Address: 26485 Mcdonald Mission Suite 995, Sarahfurt, VT 03506
+Name: John Harris, Email: jacksonnancy@example.net, Phone: 001-864-641-6136x2854, SSN: 512-33-7868, Address: 390 Rebekah Junctions, Stephanieburgh, FM 49753
+Name: Michael Robertson, Email: birddavid@example.net, Phone: 985.653.5713, SSN: 631-41-0896, Address: 0600 Donald Underpass Suite 917, Port Rhonda, GA 32764
+Name: Karen Woods, Email: zconrad@example.com, Phone: (943)929-1944, SSN: 553-43-0069, Address: 8049 Stephens Knolls Apt. 042, West Kristen, PR 09420
+Name: Daniel Sawyer Jr., Email: wagnerrebecca@example.net, Phone: (954)379-5074, SSN: 097-32-1971, Address: 4031 Thomas Lane, North Brianport, TN 52494

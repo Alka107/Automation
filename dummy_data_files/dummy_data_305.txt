@@ -1,0 +1,10 @@
+Name: Brittney Stanton, Email: bjohnson@example.org, Phone: +1-657-775-4530x04704, SSN: 730-67-3087, Address: 28091 Colleen Park, West Jessicashire, MI 48274
+Name: Tammy Jones, Email: shaneramirez@example.org, Phone: (718)689-1375x8756, SSN: 616-12-1045, Address: 702 Lisa Hollow, Michelleton, GU 80692
+Name: Karen Rogers, Email: cherylpalmer@example.com, Phone: 387.372.7385, SSN: 465-51-5728, Address: 069 Smith Orchard, Port Richardmouth, MO 80579
+Name: Eric Martin, Email: hamptonernest@example.net, Phone: 8845277560, SSN: 104-86-7322, Address: 286 Douglas Mission Apt. 875, East Ericastad, AK 17186
+Name: Andrew Weiss, Email: timothy35@example.com, Phone: (419)804-8305, SSN: 674-65-0937, Address: 21942 Nicholas Ferry Suite 443, Gibsonfort, OR 44402
+Name: Amanda Torres, Email: qcole@example.net, Phone: (770)643-1287, SSN: 504-22-0604, Address: 41704 Joshua Mills Apt. 304, Gateshaven, TX 56499
+Name: Jennifer Thompson, Email: newmanrachael@example.com, Phone: (531)376-6725, SSN: 646-19-4241, Address: 40277 Cannon Ramp Apt. 221, New Davidland, MN 95168
+Name: Elizabeth Stone, Email: douglas82@example.net, Phone: 001-584-457-2221x73138, SSN: 198-42-8911, Address: USNV Griffin, FPO AP 20994
+Name: Roger Smith, Email: lauramurphy@example.com, Phone: (748)581-5236, SSN: 028-54-4668, Address: 00630 Christopher Plaza Suite 570, Ryanstad, WV 05490
+Name: Cynthia Steele, Email: alicia76@example.com, Phone: 412-905-4640x678, SSN: 875-85-0805, Address: 8245 Stephen Key, Wilsonhaven, OK 55573

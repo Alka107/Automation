@@ -1,0 +1,10 @@
+Name: Steven Johnson, Email: laceyjohnson@example.org, Phone: 7754379207, SSN: 759-86-3146, Address: 358 Garcia Shoal, West Destinymouth, CO 18835
+Name: Brian Rosales, Email: hamiltonerin@example.com, Phone: (797)938-2880x052, SSN: 481-15-1113, Address: 50516 Lowery Ford, South Jodi, MA 84026
+Name: Monica Padilla, Email: keith18@example.net, Phone: 3077187944, SSN: 723-71-4757, Address: 438 Brown Freeway, Pattersonville, VI 59477
+Name: Rhonda Nguyen, Email: pburns@example.org, Phone: 799.736.8157, SSN: 168-22-8112, Address: 8530 Wu Fords, East Dana, MI 08666
+Name: Karina Brown, Email: marksashley@example.org, Phone: (790)904-1917x12158, SSN: 776-49-5953, Address: 1300 Brown Squares Apt. 927, East Michael, OH 60012
+Name: Phyllis Miranda, Email: deborah36@example.net, Phone: 001-583-361-0257x3457, SSN: 794-53-9780, Address: 592 Miranda Flat Apt. 765, Boydtown, GU 99256
+Name: Patricia Gonzales, Email: kimberly82@example.com, Phone: 4725805830, SSN: 382-29-3305, Address: 13006 Monique Street, Meganborough, NM 63629
+Name: Emily Taylor, Email: steven82@example.com, Phone: +1-988-909-4098x03047, SSN: 235-19-4201, Address: 968 William Points Suite 872, East Justin, MO 66342
+Name: Adam Mason, Email: michaelarcher@example.com, Phone: 304-978-5588x279, SSN: 300-24-6562, Address: 40901 Marshall Drives Apt. 298, Port Jennifer, SC 72699
+Name: Jennifer French, Email: grantalexander@example.org, Phone: +1-861-944-0287x79263, SSN: 432-67-3511, Address: 92958 Young Points, South Scott, NM 94642

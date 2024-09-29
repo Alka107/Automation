@@ -1,0 +1,10 @@
+Name: Carolyn Lucas, Email: wesley10@example.com, Phone: (815)874-9089x2601, SSN: 199-48-5258, Address: 68724 Rivera Centers Suite 201, Owensfort, KS 49767
+Name: Richard Patrick, Email: andrew02@example.net, Phone: 233.660.6007x3783, SSN: 607-54-4438, Address: 4612 Anthony Valley, West Debra, KS 81100
+Name: Marcus Charles, Email: john59@example.com, Phone: 001-810-770-7705x166, SSN: 449-70-2894, Address: 5619 Jackson Divide, West Davidburgh, ND 50804
+Name: Amber Rivera, Email: dillonperez@example.com, Phone: +1-327-337-0843, SSN: 053-76-2144, Address: 9521 Strickland Island Apt. 143, Ramirezstad, GA 58598
+Name: Jonathan Logan, Email: xsmith@example.com, Phone: (598)910-6939x0322, SSN: 139-92-7216, Address: 191 Leblanc Mall, Port Virginia, TX 42467
+Name: Dylan Cunningham, Email: nicholas02@example.net, Phone: 645-924-8786, SSN: 349-43-0897, Address: 298 Tran Squares, Aaronburgh, NH 97720
+Name: James Vasquez, Email: sandracochran@example.com, Phone: 8048073714, SSN: 345-29-2393, Address: 290 Benjamin Haven, Stephaniefurt, NY 06800
+Name: Alexis Garcia, Email: dianajohnson@example.net, Phone: +1-215-249-5543x1131, SSN: 852-55-3131, Address: 828 Richards Parkways Apt. 998, Taylorfurt, LA 33380
+Name: David Leon, Email: johndaniel@example.org, Phone: 001-635-820-1717x3012, SSN: 626-27-8018, Address: 5139 Justin Glens, Davidstad, DE 13785
+Name: Catherine Newman, Email: leaharias@example.com, Phone: 688.408.4943x29495, SSN: 028-76-0347, Address: 51053 Perez Rest Suite 465, East Rachael, PW 56041

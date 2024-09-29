@@ -1,0 +1,10 @@
+Name: Kimberly Salas, Email: ataylor@example.org, Phone: +1-584-400-9995x50089, SSN: 768-21-1966, Address: 6468 Melissa Mission, Wilsonville, DE 45659
+Name: Edward Coleman, Email: nmills@example.org, Phone: +1-317-942-7519x4270, SSN: 674-09-1387, Address: 082 Williams Port, West Melissa, SC 37807
+Name: Lisa Martin, Email: charlesgomez@example.com, Phone: 515.945.8700, SSN: 486-33-9878, Address: 815 Kennedy Plain, Cruzland, DE 11347
+Name: Valerie Salazar, Email: ljones@example.com, Phone: 4876314828, SSN: 159-90-1226, Address: 57734 Leonard Motorway Suite 353, West Sarah, IL 74307
+Name: Clifford Anthony, Email: samanthaadams@example.net, Phone: 001-974-533-2101x808, SSN: 558-92-2619, Address: 592 John Forest Apt. 615, Samanthabury, AR 02593
+Name: Samuel Zhang, Email: kperry@example.net, Phone: 464-927-5447x048, SSN: 221-04-9003, Address: 36043 Jonathan Freeway, East Kelly, SC 73822
+Name: Lisa Miles, Email: robert12@example.org, Phone: 001-978-976-7743x610, SSN: 700-56-5496, Address: 340 Reginald Manors Apt. 578, New Herbert, NC 70209
+Name: Jose Mcdonald, Email: wshields@example.org, Phone: (921)603-8805x90574, SSN: 398-91-9726, Address: 77000 Mccormick Walk Suite 067, Mckinneymouth, AS 98816
+Name: Jeffrey Mcdonald, Email: kevinharris@example.org, Phone: 994.407.5699x96247, SSN: 375-03-8301, Address: 04683 Amanda Overpass Suite 944, Claystad, MI 70178
+Name: Bonnie Park, Email: dorothypetersen@example.net, Phone: (465)875-6185x16040, SSN: 846-92-8511, Address: 5326 Gonzalez Curve, South Brooke, NH 16282
